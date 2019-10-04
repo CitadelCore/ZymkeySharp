@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+
+    <PackageId>ZymkeySharp</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Joseph Marsden</Authors>
+  </PropertyGroup>
+
+</Project>
